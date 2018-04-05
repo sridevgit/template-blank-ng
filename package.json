@@ -18,7 +18,8 @@
     "{N}",
     "tns",
     "appbuilder",
-    "template"
+    "template",
+    "category-general"
   ],
   "repository": {
     "type": "git",
